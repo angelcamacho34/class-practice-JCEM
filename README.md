@@ -1,9 +1,10 @@
 # JCEM
 
+Descarga este proyecto como zip, dano click en el boton clonar o descargar
 
 ## Sigue los siguientes pasos para descargar las dependencias y ejecutar el proyecto.
 
-En la carpeta donde colocaste el contenido del archivo rar abre una consola, y ejecuta el comando `npm i`, este comando descargara todas las dependencias que el proyecto requiere.
+En la carpeta donde colocaste el contenido del archivo .zip abre una consola, y ejecuta el comando `npm i`, este comando descargara todas las dependencias que el proyecto requiere.
 
 Despues, ejecuta el comando `npm start` el cual iniciará el proyecto.
 
