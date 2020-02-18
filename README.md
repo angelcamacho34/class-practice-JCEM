@@ -1,6 +1,6 @@
 # JCEM
 
-Descarga este proyecto como zip, dano click en el boton clonar o descargar
+Descarga este proyecto como zip, dando click en el boton clonar o descargar
 
 ## Sigue los siguientes pasos para descargar las dependencias y ejecutar el proyecto.
 
