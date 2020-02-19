@@ -1,7 +1,27 @@
-$headerHeight: 60px;
+$headerHeight: 54px;
 
 .container{
     height: $headerHeight;
     width: 100%;
-    background-color: red;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#labels{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    div {
+        width: 25%;
+        height: 65%;
+        background-color: green;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 }
